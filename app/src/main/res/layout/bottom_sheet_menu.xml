@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/nav_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:paddingVertical="12dp"
+        android:text="@string/tambah_transaksi"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:drawableLeftCompat="@drawable/baseline_playlist_add_24" />
+
+    <TextView
+        android:id="@+id/nav_chart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:paddingVertical="12dp"
+        android:text="@string/rekap_diagram"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:drawableLeftCompat="@drawable/baseline_pie_chart_24" />
+
+
+    <TextView
+        android:id="@+id/nav_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:paddingVertical="12dp"
+        android:text="@string/logout"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:drawableStartCompat="@drawable/baseline_logout_24" />
+</LinearLayout>

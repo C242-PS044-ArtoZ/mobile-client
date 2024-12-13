@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Artoz" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:ignore="NewApi">false</item>
+        <item name="colorPrimary">@color/medium_teal</item>
+    </style>
+
+    <style name="Theme.Artoz" parent="Base.Theme.Artoz" />
+</resources>

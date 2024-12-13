@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rich_yellow">#FBC02D</color>
+    <color name="selectItem">#86dbc4</color>
+    <color name="blue">#1976D2</color>
+    <color name="dark_blue">#003297</color>
+    <color name="light_sky_blue">#87CEEB</color>
+
+    <color name="dark_red">#D32F2F</color>
+
+    <color name="dark_green">#388E3C</color>
+    <color name="soft_green">#C8E6C9</color>
+
+    <color name="bright_teal">#1DE9B6</color>
+    <color name="dark_teal">#00695C</color>
+    <color name="soft_teal">#A7FFEB</color>
+    <color name="medium_teal">#26A69A</color>
+
+    <color name="gray">#808080</color>
+</resources>
